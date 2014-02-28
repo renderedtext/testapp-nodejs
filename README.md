@@ -5,6 +5,8 @@ To run it locally or on Semaphore you need just following commands:
 TEST
 TEST
 TEST
+TEST
+TEST
 
 ```console
 npm install

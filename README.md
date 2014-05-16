@@ -5,7 +5,8 @@ To run it locally or on Semaphore you need just following commands:
 
 ```console
 kkkkkkk aaaaaaaa PPPPP
-VVVVVVVVVVVVV
+
+AAAAAAAA
 ```
 
 just test.
